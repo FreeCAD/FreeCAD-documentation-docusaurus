@@ -1,0 +1,8 @@
+{
+  "label": "Python Scripting",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Usage of Python in FreeCAD."
+  }
+}
