@@ -1,0 +1,8 @@
+{
+  "label": "General Usage",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Know how to use FreeCAD."
+  }
+}

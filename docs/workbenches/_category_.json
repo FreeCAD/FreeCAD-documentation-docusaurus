@@ -1,0 +1,8 @@
+{
+  "label": "Workbenches",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Workbenches available in FreeCAD."
+  }
+}
