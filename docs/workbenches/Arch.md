@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The  Arch Workbench provides a modern Building Information Modelling (BIM) workflow to FreeCAD, with support for features like fully parametric architectural entities such as walls, beams, roofs, windows, stairs, pipes, and furniture. It supports Industry Foundation Classes (IFC) files, and production of 2D floor plans in combination with the Workbench TechDraw.svg TechDraw Workbench.
+The ![arch-workbench](./assets/workbench-arch.png) Arch Workbench provides a modern [**B**uilding **I**nformation **M**odelling](http://en.wikipedia.org/wiki/Building_Information_Modeling) (BIM) workflow to FreeCAD, with support for features like fully parametric architectural entities such as walls, beams, roofs, windows, stairs, pipes, and furniture. It supports [**I**ndustry **F**oundation **C**lasses] (IFC) files, and production of 2D floor plans in combination with the Workbench TechDraw.svg TechDraw Workbench.
 
 The Arch Workbench imports all tools from the Workbench Draft.svg Draft Workbench, as it uses its 2D objects to build 3D parametric architectural objects. Nevertheless, Arch can also use solid shapes created with other workbenches like Workbench Part.svg Part and Workbench PartDesign.svg PartDesign.
 
