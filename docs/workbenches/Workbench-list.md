@@ -13,6 +13,7 @@ Note that sometimes a Workbench is referred to as a Module. However, Workbenches
 ### Current
 
 The following workbenches are bundled with every FreeCAD installation:
+
 * ![image](https://github.com/gauriimaheshwarii/FreeCAD-documentation/assets/100439627/a1b5489b-e947-4077-bcf2-182be03aba7f) [Std Base](https://wiki.freecad.org/Std_Base): This is not really a workbench, but rather a category of 'standard' commands and tools that can be used in all workbenches.
 * ![image](https://github.com/gauriimaheshwarii/FreeCAD-documentation/assets/100439627/9bc2e291-8e10-4ce0-b374-12641eab454b) The [Arch Workbench](https://wiki.freecad.org/Arch_Workbench) for working with architectural elements.
 * ![image](https://github.com/gauriimaheshwarii/FreeCAD-documentation/assets/100439627/c25772d8-13c4-42b5-8c8c-eba8f64a2b7e) The [Draft Workbench](https://wiki.freecad.org/Draft_Workbench) contains 2D tools and basic 2D and 3D CAD operations.
@@ -37,6 +38,7 @@ The following workbenches are bundled with every FreeCAD installation:
 ### Obsolete
 
 The following workbenches are no longer included after version 0.20:
+
 * ![image](https://github.com/gauriimaheshwarii/FreeCAD-documentation/assets/100439627/f7332799-41a3-4e1c-b0cf-8f36162fb52a) The [Drawing Workbench](https://wiki.freecad.org/Drawing_Workbench) was used for producing technical drawings. The [TechDraw Workbench](https://wiki.freecad.org/TechDraw_Workbench) is its more advanced replacement.
 * ![image](https://github.com/gauriimaheshwarii/FreeCAD-documentation/assets/100439627/c822d08d-0fa3-4d78-872c-9ea127ab3c5f) The [Image Workbench](https://wiki.freecad.org/Image_Workbench) was used for working with bitmap images. It functionality has been integrated in [Std Base](https://wiki.freecad.org/Std_Base). See [Std Import](https://wiki.freecad.org/Std_Import) and [Std ViewLoadImage](https://wiki.freecad.org/Std_ViewLoadImage).
 * ![image](https://github.com/gauriimaheshwarii/FreeCAD-documentation/assets/100439627/e0f3dc95-6648-4037-9f45-86ec7abc49f0) The [Raytracing Workbench](https://wiki.freecad.org/Raytracing_Workbench) was used for ray-tracing (rendering). The external [Render Workbench](https://github.com/FreeCAD/FreeCAD-render) should be used instead.
