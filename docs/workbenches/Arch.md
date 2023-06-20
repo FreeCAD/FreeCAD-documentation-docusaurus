@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The ![arch-workbench](./assets/workbench-arch.png) Arch Workbench provides a modern [**B**uilding **I**nformation **M**odelling](http://en.wikipedia.org/wiki/Building_Information_Modeling) (BIM) workflow to FreeCAD, with support for features like fully parametric architectural entities such as walls, beams, roofs, windows, stairs, pipes, and furniture. It supports [**I**ndustry **F**oundation **C**lasses](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/blob/main/src/pages/workbenches/arch-ifc.md) (IFC) files, and production of 2D floor plans in combination with the [TechDraw Workbench](docs\workbenches\techdraw.md).
+The ![Arch-Workbenc](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/blob/main/src/assets/workbenches/arch/ArchWorkbench.svg) Arch Workbench provides a modern [**B**uilding **I**nformation **M**odelling](http://en.wikipedia.org/wiki/Building_Information_Modeling) (BIM) workflow to FreeCAD, with support for features like fully parametric architectural entities such as walls, beams, roofs, windows, stairs, pipes, and furniture. It supports [**I**ndustry **F**oundation **C**lasses](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/blob/main/src/pages/workbenches/arch-ifc.md) (IFC) files, and production of 2D floor plans in combination with the [TechDraw Workbench](docs\workbenches\techdraw.md).
 
 The Arch Workbench imports all tools from the [Draft Workbench](docs\workbenches\draft.md), as it uses its 2D objects to build 3D parametric architectural objects. Nevertheless, Arch can also use solid shapes created with other workbenches like [Part](docs\workbenches\part.md) and [PartDesign](docs\workbenches\part-design.md).
 
