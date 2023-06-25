@@ -1,5 +1,13 @@
 # Std AddonMgr
 
+| ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/3be97951-07ea-465e-9311-2e49e8d6086c) Std AddonMgr | |
+|---|---|
+| Menu location | Tools → Addon manager |  
+| Workbenches | All  |   
+| Default shortcut | None  |   
+| Introduced in version | 0.17  |   
+| See also | [External workbenches](https://wiki.freecad.org/External_workbenches), [Macros](https://wiki.freecad.org/Macros)  |   
+
 ## Description
 
 The **Std AddonMgr** command opens the Addon manager. With the Addon manager you can install and manage [external workbenches](https://wiki.freecad.org/External_workbenches), macros, and [preference packs](https://wiki.freecad.org/Preference_Packs) provided by the FreeCAD community. By default, the available addons are taken from two repositories, [FreeCAD-addons](https://github.com/FreeCAD/FreeCAD-addons/) and from the [Macros recipes](https://wiki.freecad.org/Macros_recipes) page. If GitPython and Git are installed on your system, additional macros will be loaded from [FreeCAD-macros](https://github.com/FreeCAD/FreeCAD-macros/). Custom repositories can be added in the [Addon manager preferences](https://wiki.freecad.org/Preferences_Editor#Addon_Manager).
