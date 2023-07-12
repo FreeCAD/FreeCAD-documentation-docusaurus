@@ -1,0 +1,78 @@
+# Code examples
+
+> Scripting and macros
+
+## Overview of Python scripting pages
+
+- Python related pages in the Manual:
+  - [A gentle introduction](https://wiki.freecad.org/Manual:A_gentle_introduction)
+  - [Creating and manipulating geometry](https://wiki.freecad.org/Manual:Creating_and_manipulating_geometry)
+  - [Creating parametric objects](https://wiki.freecad.org/Manual:Creating_parametric_objects)
+  - [Creating interface tools](https://wiki.freecad.org/Manual:Creating_interface_tools)
+- Basics:
+  - [Working with macros](docs\python-scripting\macros.md)
+  - [Script tutorial](https://wiki.freecad.org/Scripts)
+  - [Introduction to Python](docs\python-scripting\discovering-python.md)
+  - [Python scripting tutorial](https://wiki.freecad.org/Python_scripting_tutorial)
+  - [FreeCAD scripting basics](https://wiki.freecad.org/FreeCAD_Scripting_Basics)
+- Built-in workbench related:
+  - [Drawing scripting](https://wiki.freecad.org/Drawing_API_example) (_the Drawing workbench is obsolete_)
+  - [FEM scripting](https://wiki.freecad.org/FEM_Tutorial_Python)
+  - [Mesh scripting](https://wiki.freecad.org/Mesh_Scripting)
+  - [Mesh: Converting between Meshes and Parts](https://wiki.freecad.org/Mesh_to_Part)
+  - [Part scripting](https://wiki.freecad.org/Part_scripting)
+  - [Part: Basic shape manipulation](https://wiki.freecad.org/Topological_data_scripting)
+  - [Part: Create a ball bearing part I](https://wiki.freecad.org/Scripted_Parts:_Ball_Bearing_-_Part_1)
+  - [Part: Create a ball bearing part II](https://wiki.freecad.org/Scripted_Parts:_Ball_Bearing_-_Part_2)
+  - [Path scripting](https://wiki.freecad.org/Path_scripting)
+  - [Raytracing scripting](https://wiki.freecad.org/Raytracing_API_example) (_the Raytracing workbench is obsolete_)
+  - [Sketcher scripting](https://wiki.freecad.org/Sketcher_scripting)
+- FeaturePython objects (also called 'scripted objects'):
+  - [Create a FeaturePython object part I](https://wiki.freecad.org/Create_a_FeaturePython_object_part_I)
+  - [Create a FeaturePython object part II](https://wiki.freecad.org/Create_a_FeaturePython_object_part_II)
+  - [Scripted objects](https://wiki.freecad.org/Scripted_objects)
+  - [Scripted objects saving attributes](https://wiki.freecad.org/Scripted_objects_saving_attributes)
+  - [Scripted objects migration](https://wiki.freecad.org/Scripted_objects_migration)
+  - [Scripted objects with attachment](https://wiki.freecad.org/Scripted_objects_with_attachment)
+  - [Viewprovider](https://wiki.freecad.org/Viewprovider)
+  - [Custom icon in tree view](https://wiki.freecad.org/Custom_icon_in_tree_view)
+  - [Properties](https://wiki.freecad.org/Property)
+  - [PropertyLink: InList and OutList](https://wiki.freecad.org/PropertyLink:_InList_and_OutList)
+  - [Methods](https://wiki.freecad.org/FeaturePython_methods)
+- [3D view](https://wiki.freecad.org/3D_view):
+  - [The Coin scenegraph](https://wiki.freecad.org/Scenegraph)
+  - [Pivy](docs\python-scripting\pivy.md)
+- User interface:
+  - [PySide](https://wiki.freecad.org/PySide)
+  - [PySide beginner examples](https://wiki.freecad.org/PySide_Beginner_Examples)
+  - [PySide intermediate examples](https://wiki.freecad.org/PySide_Intermediate_Examples)
+  - [PySide advanced examples](https://wiki.freecad.org/PySide_Advanced_Examples)
+  - [PySide usage snippets](https://wiki.freecad.org/PySide_usage_snippets)
+  - [Interface creation](https://wiki.freecad.org/Interface_creation)
+  - [Dialog creation](https://wiki.freecad.org/Dialog_creation)
+  - [Dialog creation with various widgets](https://wiki.freecad.org/Dialog_creation_with_various_widgets)
+  - [Dialog creation reading and writing files](https://wiki.freecad.org/Dialog_creation_reading_and_writing_files)
+  - [Dialog creation setting colors](https://wiki.freecad.org/Dialog_creation_setting_colors)
+  - [Dialog creation image and animated GIF](https://wiki.freecad.org/Dialog_creation_image_and_animated_GIF)
+  - [Qt Example](https://wiki.freecad.org/Qt_Example)
+- Snippets and examples:
+  - [Define a command](https://wiki.freecad.org/Command)
+  - [Workbench creation](https://wiki.freecad.org/Workbench_creation)
+  - [Code snippets](https://wiki.freecad.org/Code_snippets)
+  - [Macros recipes](https://wiki.freecad.org/Macros_recipes)
+  - [Line drawing function](https://wiki.freecad.org/Line_drawing_function)
+- Miscellaneous:
+  - [Debugging](https://wiki.freecad.org/Debugging)
+  - [Embedding FreeCAD](https://wiki.freecad.org/Embedding_FreeCAD)
+  - [Embedding FreeCADGui](https://wiki.freecad.org/Embedding_FreeCADGui)
+  - [Extra python modules](https://wiki.freecad.org/Extra_python_modules)
+  - [FreeCAD vector math library](https://wiki.freecad.org/FreeCAD_vector_math_library)
+  - [How to install macros](https://wiki.freecad.org/How_to_install_macros)
+  - [iPython notebook integration](https://wiki.freecad.org/IPython_notebook_integration)
+  - [Macro at startup](https://wiki.freecad.org/Macro_at_Startup)
+  - [Profiling](https://wiki.freecad.org/Profiling)
+  - [Python](https://wiki.freecad.org/Python)
+  - [PythonOCC](https://wiki.freecad.org/PythonOCC)
+  - [Python development environment](https://wiki.freecad.org/Python_Development_Environment)
+  - [Quantity](https://wiki.freecad.org/Quantity)
+  - [Svg namespace](https://wiki.freecad.org/Svg_Namespace)
