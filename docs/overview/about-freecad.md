@@ -12,7 +12,7 @@ FreeCAD makes heavy use of open-source libraries that exist in the field of [sci
 
 FreeCAD is also [multi-platform](http://en.wikipedia.org/wiki/Cross-platform), and currently runs on Linux/Unix, Windows, and macOS systems with the same look and functionality on all platforms.
 
-For more information about FreeCAD's capabilities, take a look at the [feature list](docs\overview\features.md), the [latest release notes](https://wiki.freecad.org/Feature_list#Release_notes), and the [getting started](docs\general-usage\getting-started.md) articles, or see more screenshots(docs\overview\screenshots.md).
+For more information about FreeCAD's capabilities, take a look at the [feature list](docs\overview\features.md), the [latest release notes](https://wiki.freecad.org/Feature_list#Release_notes), and the [getting started](docs\general-usage\getting-started.md) articles, or see more [screenshots](docs\overview\screenshots.md).
 
 ## About the FreeCAD project
 
