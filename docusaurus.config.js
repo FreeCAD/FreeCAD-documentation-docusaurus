@@ -76,7 +76,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: 'https://yorik.uncreated.net/blog/2023-021-freecad-weekly14', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/FreeCAD',
             label: 'GitHub',
