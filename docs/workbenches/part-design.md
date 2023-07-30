@@ -117,3 +117,38 @@ Some additional functionality found in the Part Design menu:
 - ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/b905f253-6a28-4f01-8c0f-0610e4122940) Sprocket: creates a sprocket profile that can be padded.
 - ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/77920be3-101d-4957-9cf8-ccd68b2e7c46) Involute gear: creates an involute gear profile that can be padded.
 - ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/c21f7c5a-aafa-49a2-9b26-5b6bb2d9ecb2) Shaft design wizard: Generates a shaft from a table of values and allows to analyze forces and moments. The shaft is made with a revolved sketch that can be edited.
+
+### Context Menu items
+
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/e954facb-2850-444d-af59-751397fd294b) Set tip: redefines the tip, which is the feature exposed outside of the Body.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/b26e9c0e-f4b6-43f5-923a-f6db3fa6dacc) Move object to other body: moves the selected sketch, datum geometry or feature to another Body.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/0b824336-90b9-4924-8235-86259d2b8f8a) Move object after other object: allows reordering of the Body tree by moving the selected sketch, datum geometry, or feature to another position in the list of features.
+
+#### Items shared with the Part workbench
+
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/043e02dc-7a61-49fb-8d07-2ea8a6256728) Appearance: determines appearance of the whole part (color transparency etc.).
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/d9bc9294-52a8-420e-a5b5-9273ce7b7877) Set colors: assigns colors to part faces.
+
+## Preferences
+
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/12e9e469-396c-4db5-bee4-133fe270d521) Preferences: preferences available for PartDesign Tools.
+- Fine tuning: some extra parameters to fine-tune PartDesign behavior.
+
+## Tutorials
+
+- [How to use FreeCAD](http://help-freecad-jpg87.fr/), a website describing the workflow for mechanical design.
+- [Creating a simple part with PartDesign](https://wiki.freecad.org/Creating_a_simple_part_with_PartDesign)
+- [Basic Part Design Tutorial](https://wiki.freecad.org/Basic_Part_Design_Tutorial)
+- [PartDesign Bearingholder Tutorial I](https://wiki.freecad.org/PartDesign_Bearingholder_Tutorial_I) (needs updating)
+- [PartDesign Bearingholder Tutorial II](https://wiki.freecad.org/PartDesign_Bearingholder_Tutorial_II) (needs updating)
+
+## Examples
+
+For some ideas of what can be achieved with Part Design tools, have a look at: [PartDesign examples](https://wiki.freecad.org/PartDesign_Examples).
+
+![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/20f14536-54b9-4b5a-bd66-0d3a761276c7)
+![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/c0c1c3ae-59b5-4c2c-b8d4-56900e07caa5)
+![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/f48b1ed5-4118-4362-b703-8a79372e197c)
+![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/05e25f4e-b157-4770-b71c-db9c69248734)
+![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/0ede817c-4ce4-4963-afe7-454f0d82725b)
+![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/09862806-c476-47bb-8b4c-efc725a52a03)
