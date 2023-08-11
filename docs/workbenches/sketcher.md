@@ -81,22 +81,22 @@ The Sketcher Workbench tools are located in the Sketch menu and/or several toolb
 #### Sketcher edit tools toolbar ([introduced in version 0.21](https://wiki.freecad.org/Release_notes_0.21))
 
 - ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/bcee35f3-093a-4c7e-a8a4-b06297a12902) [Toggle grid](https://wiki.freecad.org/Sketcher_Grid): Toggles the grid in the sketch currently being edited. Settings can be changed in the related menu. 
-- [Toggle snap](https://wiki.freecad.org/Sketcher_Snap): Toggles snapping in all sketches. Settings can be changed in the related menu.
-- [Configure rendering order](https://wiki.freecad.org/Sketcher_RenderingOrder): The rendering order of all sketches can be changed in the related menu. 
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/02f75db0-2932-40ea-bce1-0bf55a710af9) [Toggle snap](https://wiki.freecad.org/Sketcher_Snap): Toggles snapping in all sketches. Settings can be changed in the related menu.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/029a120b-6b28-4dc4-9ad1-a31e2979092e) [Configure rendering order](https://wiki.freecad.org/Sketcher_RenderingOrder): The rendering order of all sketches can be changed in the related menu. 
 
 #### Other
 
-- [Stop operation](https://wiki.freecad.org/Sketcher_StopOperation): When in edit mode, stop the current operation, whether that is drawing, setting constraints, etc.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/f773e637-0a35-41d9-8b07-5f3faaab27a9) [Stop operation](https://wiki.freecad.org/Sketcher_StopOperation): When in edit mode, stop the current operation, whether that is drawing, setting constraints, etc.
 
 ### Sketcher geometries
 
 These are tools for creating objects.
 
-- [Point](https://wiki.freecad.org/Sketcher_CreatePoint): Draws a point.
-- [Line](https://wiki.freecad.org/Sketcher_CreateLine): Draws a line segment between 2 points. Lines are infinite regarding certain constraints.
-- [Create arc](https://wiki.freecad.org/Sketcher_CompCreateArc): This is an icon menu in the Sketcher toolbar that holds the following commands:
-  - [Arc](https://wiki.freecad.org/Sketcher_CreateArc): Draws an arc segment from center, radius, start angle and end angle.
-  - [Arc by 3 points](https://wiki.freecad.org/Sketcher_Create3PointArc): Draws an arc segment from two endpoints and another point on the circumference.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/a5a15b0d-b248-47fd-b36a-3e6df2c30609) [Point](https://wiki.freecad.org/Sketcher_CreatePoint): Draws a point.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/8171b095-5e0a-4011-8348-19b1a477ce63) [Line](https://wiki.freecad.org/Sketcher_CreateLine): Draws a line segment between 2 points. Lines are infinite regarding certain constraints.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/93815446-adff-4849-9969-d1c7c43ac585) [Create arc](https://wiki.freecad.org/Sketcher_CompCreateArc): This is an icon menu in the Sketcher toolbar that holds the following commands:
+  - ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/e8695466-cddf-45d0-832f-68c70b616a1c) [Arc](https://wiki.freecad.org/Sketcher_CreateArc): Draws an arc segment from center, radius, start angle and end angle.
+  - ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/b0fce92d-9c54-4620-bb43-24632adb57c8) [Arc by 3 points](https://wiki.freecad.org/Sketcher_Create3PointArc): Draws an arc segment from two endpoints and another point on the circumference.
 - [Create circle](https://wiki.freecad.org/Sketcher_CompCreateCircle): This is an icon menu in the Sketcher toolbar that holds the following commands:
   - [Circle](https://wiki.freecad.org/Sketcher_CreateCircle): Draws a circle from center and radius.
   - [Circle by 3 points](https://wiki.freecad.org/Sketcher_Create3PointCircle): Draws a circle from three points on the circumference.
