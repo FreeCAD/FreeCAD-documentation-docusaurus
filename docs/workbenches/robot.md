@@ -14,9 +14,12 @@ You can do the following tasks:
 - Simulate the robot movement and reaching distance.
 - Export the trajectory to a robot program file.
 
-To get started try the [Robot tutorial](https://wiki.freecad.org/Robot_tutorial), and see the programming interface in the [RobotExample.py](https://github.com/FreeCAD/FreeCAD_sf_master/blob/master/src/Mod/Robot/RobotExample.py) example file.  
+To get started try the [Robot tutorial](https://wiki.freecad.org/Robot_tutorial), and see the programming interface in the [RobotExample.py](https://github.com/FreeCAD/FreeCAD_sf_master/blob/master/src/Mod/Robot/RobotExample.py) example file.    
 
-![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/e1915a82-4773-4fa4-9e87-fc38307cba09)  
+![Robot workbench icon](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/071a693b-b74f-4ecb-9c8b-e17f3af8b663)  
+_Robot workbench icon_  
+
+![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/e1915a82-4773-4fa4-9e87-fc38307cba09)    
 
 ## Tools
 
