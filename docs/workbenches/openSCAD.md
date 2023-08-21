@@ -36,25 +36,25 @@ The OpenSCAD language allows the use of variables and loops. It allows you to sp
 
 ## Tools
 
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/9de46d13-4de9-45a5-b853-eb8886a8cdf5) Color Code Shape: Change the color of selected or all shapes based on their validity.
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/eb1513c4-9e34-47a8-beef-350f170c4e27) Replace Object: Replace an object in the feature tree.
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/df7a322d-3f48-4ae7-9b5b-338915c8f589) Remove Subtree: Removes the selected objects and all children that are not referenced from other objects.
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/748fcc29-c47b-4785-b31c-cf88b4b4f595) Refine Shape Feature: Create Refine Shape Feature.
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/0a18f045-84eb-45de-83e9-e4a714f974c6) Mirror Mesh Feature: Create Mirror Mesh Feature.
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/5bbc70f2-5bb2-4d5b-9bbd-be4234200d5c) Scale Mesh Feature: Scale a Mesh Feature.
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/f0948af5-686b-4a6e-a612-5958acbfcc50) Resize Mesh Feature: Resize a Mesh Feature.
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/df643233-eba8-4e96-8a6b-2c3366831d93) Increase Tolerance Feature: Increases tolerance of edges/faces/vertex of selected object(s).
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/49411bf6-a057-4cf0-aad5-6fb1da2d6478) Convert Edges To Faces: Convert edges to faces. Useful to prepare imported DXF geometry for extrusion.
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/7c768432-75b1-48fc-9073-728d5d049727) Expand Placements: Expand all placements downwards the FeatureTree.
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/59070d69-4951-4b26-beb8-f83c62fd594b) Explode Group: Explodes fused part primitives.
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/a0a4edff-7ad6-4d76-9e8b-2294714fa4cb) Add OpenSCAD Element: Add an OpenSCAD element by entering OpenSCAD code into the task panel.
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/8026c4fa-6354-42b2-bd6d-9061ea2de7c6) Mesh Boolean: Creates new mesh object by boolean operation from shapes.
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/ccfbf9ee-b3e0-4e15-aa1e-74135775588e) Hull: Applies a hull to selected shapes.
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/825d32f7-a0f9-48d0-b35a-1b8dd5cc192f) Minkowski: Applies a minkowski sum to selected shapes.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/9de46d13-4de9-45a5-b853-eb8886a8cdf5) [Color Code Shape](https://wiki.freecad.org/OpenSCAD_ColorCodeShape): Change the color of selected or all shapes based on their validity.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/eb1513c4-9e34-47a8-beef-350f170c4e27) [Replace Object](https://wiki.freecad.org/OpenSCAD_ReplaceObject): Replace an object in the feature tree.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/df7a322d-3f48-4ae7-9b5b-338915c8f589) [Remove Subtree](https://wiki.freecad.org/OpenSCAD_RemoveSubtree): Removes the selected objects and all children that are not referenced from other objects.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/748fcc29-c47b-4785-b31c-cf88b4b4f595) [Refine Shape Feature](https://wiki.freecad.org/OpenSCAD_RefineShapeFeature): Create Refine Shape Feature.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/0a18f045-84eb-45de-83e9-e4a714f974c6) [Mirror Mesh Feature](https://wiki.freecad.org/OpenSCAD_MirrorMeshFeature): Create Mirror Mesh Feature.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/5bbc70f2-5bb2-4d5b-9bbd-be4234200d5c) [Scale Mesh Feature](https://wiki.freecad.org/OpenSCAD_ScaleMeshFeature): Scale a Mesh Feature.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/f0948af5-686b-4a6e-a612-5958acbfcc50) [Resize Mesh Feature](https://wiki.freecad.org/OpenSCAD_ResizeMeshFeature): Resize a Mesh Feature.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/df643233-eba8-4e96-8a6b-2c3366831d93) [Increase Tolerance Feature](https://wiki.freecad.org/OpenSCAD_IncreaseToleranceFeature): Increases tolerance of edges/faces/vertex of selected object(s).
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/49411bf6-a057-4cf0-aad5-6fb1da2d6478) [Convert Edges To Faces](https://wiki.freecad.org/OpenSCAD_Edgestofaces): Convert edges to faces. Useful to prepare imported DXF geometry for extrusion.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/7c768432-75b1-48fc-9073-728d5d049727) [Expand Placements](https://wiki.freecad.org/OpenSCAD_ExpandPlacements): Expand all placements downwards the FeatureTree.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/59070d69-4951-4b26-beb8-f83c62fd594b) [Explode Group](https://wiki.freecad.org/OpenSCAD_ExplodeGroup): Explodes fused part primitives.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/a0a4edff-7ad6-4d76-9e8b-2294714fa4cb) [Add OpenSCAD Element](https://wiki.freecad.org/OpenSCAD_AddOpenSCADElement): Add an OpenSCAD element by entering OpenSCAD code into the task panel.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/8026c4fa-6354-42b2-bd6d-9061ea2de7c6) [Mesh Boolean](https://wiki.freecad.org/OpenSCAD_MeshBoolean): Creates new mesh object by boolean operation from shapes.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/ccfbf9ee-b3e0-4e15-aa1e-74135775588e) [Hull](https://wiki.freecad.org/OpenSCAD_Hull): Applies a hull to selected shapes.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/825d32f7-a0f9-48d0-b35a-1b8dd5cc192f) [Minkowski](https://wiki.freecad.org/OpenSCAD_Minkowski): Applies a minkowski sum to selected shapes.
 
 ## Preferences
 
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/e803cf31-31f7-405f-a555-75aa47b6b817) Preferences: preferences available for the OpenSCAD tools.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/e803cf31-31f7-405f-a555-75aa47b6b817) [Preferences](https://wiki.freecad.org/OpenSCAD_Preferences): preferences available for the OpenSCAD tools.
 
 ## Limitations
 
@@ -93,4 +93,4 @@ If FreeCAD crashes when importing CSG, it is strongly recommended that you enabl
 
 - The official OpenSCAD project source code repository hosted on [GitHub](https://github.com/openscad/openscad).
 - Open tickets tagged "OpenSCAD" on the [FreeCAD GitHub issue tracker](https://github.com/FreeCAD/FreeCAD/labels/WB%20OpenSCAD). There are also tickets on the now archived [mantis bugtracker](https://freecadweb.org/tracker/search.php?tag_string=OpenSCAD).
-- Models tagged with "OpenSCAD" on [Thingiverse](http://www.thingiverse.com/tag:openscad)
+- Models tagged with "OpenSCAD" on [Thingiverse](http://www.thingiverse.com/tag:openscad).
