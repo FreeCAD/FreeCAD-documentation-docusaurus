@@ -247,7 +247,7 @@ Similar steps apply to a [PartDesign SubShapeBinder](https://wiki.freecad.org/Pa
 
 ## Scripting basics
 
-```
+```python
 import Spreadsheet
 sheet = App.ActiveDocument.addObject("Spreadsheet::Sheet","MySpreadsheet")
 sheet.Label = "Dimensions"

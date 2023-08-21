@@ -20,7 +20,7 @@ On the right, a non-planar [Draft Wire](https://wiki.freecad.org/Draft_Wire) use
 
 - ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/eb1eceb7-5ce6-41c2-9509-3c257163c1e1) [Line](https://wiki.freecad.org/Draft_Line): creates a straight line.
 - ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/06a50946-696b-45ba-8dc5-90108aaf083a) [Polyline](https://wiki.freecad.org/Draft_Wire): creates a polyline (also called wire), a sequence of several connected line segments.
-- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/17e62e8e-19cb-4b4d-8b9b-9926cfb9fc30) [Fillet](https://wiki.freecad.org/Draft_Fillet: creates a fillet, a rounded corner, or a chamfer, a straight edge, between two Draft Lines.
+- ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/17e62e8e-19cb-4b4d-8b9b-9926cfb9fc30) [Fillet](https://wiki.freecad.org/Draft_Fillet): creates a fillet, a rounded corner, or a chamfer, a straight edge, between two Draft Lines.
 - ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/0319da6a-9e24-4c44-b7c2-a0438f9a71f6) Arc tools:
   - ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/7beed0fd-5fc1-43dc-8f86-e1d578e3e13b) [Arc](https://wiki.freecad.org/Draft_Arc): creates a circular arc from a center, a radius, a start angle and an aperture angle.
   - ![image](https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/assets/100439627/c077f5c8-77ee-4195-b4dd-f1ce3f179b38) [Arc by 3 points](https://wiki.freecad.org/Draft_Arc_3Points): creates a circular arc from three points that define its circumference.
