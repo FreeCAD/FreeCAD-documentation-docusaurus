@@ -158,4 +158,4 @@ _Geometry (Points, Lines, and Curves) may be selected by dragging on the backgro
 
 - This brand new (experimental) module brings OpenSCAD file import capability into FreeCAD. This file format is wildly popular in the RepRap community and on the digital designs-sharing site Thingiverse.
 - OpenSCAD script can be executed from within FreeCAD, by OpenSCAD (if installed on your computer), with the result appearing in your FreeCAD document.
-- For more information see the [OpenSCAD Workbench](.\docs\workbenches\openSCAD.md) page on the FreeCAD wiki.
+- For more information see the [OpenSCAD Workbench](https://wiki.freecad.org/OpenSCAD_Workbench) page on the FreeCAD wiki.
