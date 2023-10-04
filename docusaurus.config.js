@@ -35,25 +35,70 @@ module.exports = async function createConfigAsync() {
     // metadata like html lang. For example, if your site is Chinese, you may want
     // to replace "en" with "zh-Hans".
 
-    // i18n: {
-    //   defaultLocale: 'en',
-    //   locales: ['en', 'fr', 'fa'],
-    //   path: 'i18n',
-    //   localeConfigs: {
-    //     en: {
-    //       label: 'English',
-    //       direction: 'ltr',
-    //       htmlLang: 'en-US',
-    //       calendar: 'gregory',
-    //       path: 'en',
-    //     },
-    //     fr: {
-    //       label: 'French',
-    //       direction: 'ltr',
-    //       path: 'fr',
-    //     },
-    //   },
-    // },
+    i18n: {
+      defaultLocale: 'en',
+      locales: ['en', 'fr', 'nl', 'it', 'es', 'tr', 'zh', 'cs', 'ru', 'uk', 'sl'],
+      path: 'i18n',
+      localeConfigs: {
+        en: {
+          label: 'English',
+          direction: 'ltr',
+          htmlLang: 'en-US',
+          calendar: 'gregory',
+          path: 'en',
+        },
+        nl: {
+          label: 'Deutsch',
+          direction: 'ltr',
+          path: 'nl',
+        },
+        fr: {
+          label: 'Français',
+          direction: 'ltr',
+          path: 'fr',
+        },
+        it: {
+          label: 'Italiano',
+          direction: 'ltr',
+          path: 'it',
+        },
+        es: {
+          label: 'Español',
+          direction: 'ltr',
+          path: 'es',
+        },
+        tr: {
+          label: 'Türkçe',
+          direction: 'ltr',
+          path: 'tr',
+        },
+        zh: {
+          label: '中文',
+          direction: 'ltr',
+          path: 'zh',
+        },
+        cs: {
+          label: 'Čeština',
+          direction: 'ltr',
+          path: 'cs',
+        },
+        ru: {
+          label: 'русский',
+          direction: 'ltr',
+          path: 'ru',
+        },
+        uk: {
+          label: 'українська',
+          direction: 'ltr',
+          path: 'uk',
+        },
+        sl: {
+          label: 'slovenščina',
+          direction: 'ltr',
+          path: 'sl',
+        },
+      },
+    },
 
     presets: [
       [
@@ -143,9 +188,41 @@ module.exports = async function createConfigAsync() {
               ],
             },
             {
-              href: "https://wiki.freecad.org/Feature_list",
               label: "Release Notes",
+              type: 'docsVersionDropdown',
+              dropdownActiveClassDisabled: true,
               position: "right",
+              dropdownItemsAfter: [
+                {
+                  href: 'https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/blob/main/src/pages/release-notes/release-0.21.md',
+                  label: 'Release 0.21',
+                },
+                {
+                  href: 'https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/blob/main/src/pages/release-notes/release-0.20.md',
+                  label: 'Release 0.20',
+                },
+                {
+                  href: 'https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/blob/main/src/pages/release-notes/release-0.19.md',
+                  label: 'Release 0.19',
+                },
+                {
+                  href: 'https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/blob/main/src/pages/release-notes/release-0.18.md',
+                  label: 'Release 0.18',
+                },
+                {
+                  type: 'html',
+                  value: '<hr class="dropdown-separator">',
+                },
+                {
+                  to: 'https://github.com/FreeCAD/FreeCAD-documentation-docusaurus/tree/main/src/pages/release-notes',
+                  label: 'All releases',
+                },
+                // {
+                //   type: 'html',
+                //   className: 'dropdown-archived-versions',
+                //   value: '<b>Archived versions</b>',
+                // },
+              ],
             },
             {
               href: "https://github.com/FreeCAD/FreeCAD-documentation-docusaurus",
