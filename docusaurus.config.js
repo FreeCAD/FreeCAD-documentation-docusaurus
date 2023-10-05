@@ -295,18 +295,17 @@ module.exports = async function createConfigAsync() {
 
         algolia: {
           // The application ID provided by Algolia
-          appId: "YOUR_APP_ID",
+          appId: "HVBNP01C46",
 
           // Public API key: it is safe to commit it
-          apiKey: "YOUR_SEARCH_API_KEY",
+          apiKey: "2397d2ecac86209ba51a5157d6d005ef",
 
-          indexName: "YOUR_INDEX_NAME",
+          indexName: "umentation-freecad-usaurus",
 
           // Optional: see doc section below
           contextualSearch: true,
-
-          // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
-          externalUrlRegex: "external\\.com|domain\\.com",
+          insights: true,
+          debug: false,
 
           // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
           replaceSearchResultPathname: {
